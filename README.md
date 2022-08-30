@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafael Giaqueto 🖖
 
-- 🔭 Hoje trabalho com Suporte TI
+- 🔭 Hoje trabalho com Suporte Técnico 
 - 🌱 Estudando HTML5, CSS3 e JS
 - 📚 Cursando Ciência da Computação
 
