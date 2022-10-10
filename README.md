@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Giaqueto 🖖
 
 - 🌱 Estudando HTML5, CSS3 e JS
-- 📚 Cursando Ciência da Computação
+- 📚 Cursando Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/rafaelgiaqueto">
