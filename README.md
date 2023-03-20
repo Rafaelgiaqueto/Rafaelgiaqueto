@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rafael Giaqueto 🖖
 
-- Estudando HTML5, CSS3 e JS
+- Estudando JS 
 - Cursando Engenharia de Software
 
 <div align="center">
